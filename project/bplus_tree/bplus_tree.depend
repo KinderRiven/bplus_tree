@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1501390896 source:h:\ict\main.c
+	"src/bplus_tree.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1501317630 h:\ict\src\bplus_tree.h
+
+1501391162 source:h:\ict\src\bplus_tree.c
+	<stdio.h>
+	<malloc.h>
+	"bplus_tree.h"
+
+1501076697 source:h:\ict\debug\debug.c
+	"debug.h"
+
+1501076699 h:\ict\debug\debug.h
+
